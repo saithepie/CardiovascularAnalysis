@@ -1,6 +1,7 @@
 # CardiovascularAnalysis
 
 Goal (or Thesis)
+
 Cardiovascular disease is the leading cause of death around the world. If we are able to predict
 whether an individual will have cardiovascular disease, it can save numerous lives. This dataset
 consists of 11 factors that potentially predict heart failure: age, sex, chest pain type, resting blood
@@ -8,7 +9,8 @@ pressure, cholesterol, fasting blood sugar, resting ECG, maximum heart rate, exe
 angina, old peak, and the slope of peak exercise. Using statistics and machine learning, this
 project aims to determine if these factors can accurately predict whether an individual will have
 cardiovascular disease.
-Description of the Dataset
+
+## Description of the Dataset
 ● Size of the dataset
 ○ 918 rows and 12 columns
 ● Column Names
@@ -37,7 +39,8 @@ Description of the Dataset
 ○ Oldpeak: Continuous
 ○ ST_Slope: Categorical
 ○ HeartDisease: Ordinal
-● List of Discrete Values for Categorical Variables
+
+## List of Discrete Values for Categorical Variables
 The categorical variables in the dataset have the following discrete values:
 ● Sex
 ○ Male
